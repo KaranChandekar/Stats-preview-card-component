@@ -6,3 +6,14 @@
   --slightly-transparent-white: hsla(0, 0%, 100%, 0.75);
   --slightly-transparent-white: hsla(0, 0%, 100%, 0.6);
 }
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Lexend Deca", sans-serif;
+  background-color: var(--very-dark-blue);
+}
