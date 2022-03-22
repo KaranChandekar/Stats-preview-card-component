@@ -26,3 +26,8 @@ body {
   text-align: center;
   color: var(--white);
 }
+
+.container .picture {
+  background: url(./images/image-header-mobile.jpg) no-repeat center/cover;
+  height: 400px;
+}
