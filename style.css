@@ -56,3 +56,16 @@ body {
   padding: 0 20px;
   margin-bottom: 300px;
 }
+
+img {
+  max-width: 100%;
+}
+
+ul {
+  list-style-type: none;
+}
+
+p {
+  font-size: 15px;
+  line-height: 1.6;
+}
