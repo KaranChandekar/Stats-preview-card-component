@@ -17,3 +17,12 @@ body {
   font-family: "Lexend Deca", sans-serif;
   background-color: var(--very-dark-blue);
 }
+
+.container {
+  background-color: var(--dark-desaturated-blue);
+  margin: 50px 20px;
+  padding: 0 0 20px;
+  border-radius: 10px;
+  text-align: center;
+  color: var(--white);
+}
