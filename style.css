@@ -103,7 +103,7 @@ p {
 
   .container .picture {
     background: url(./images/image-header-desktop.jpg) no-repeat center/cover;
-    min-width: 40%;
+    min-width: 50%;
     border-radius: 0 10px 10px 0;
   }
 
@@ -114,7 +114,20 @@ p {
   }
 
   .container .card ul {
-    padding-left: 30px;
+    padding-left: 20px;
     display: flex;
+  }
+
+  .container .card ul li {
+    margin-right: 30px;
+    font-size: 13px;
+  }
+
+  .container .card ul li span {
+    display: block;
+    text-transform: lowercase;
+    font-weight: 700;
+    font-family: "Lexend Deca", sans-serif;
+    font-size: 18px;
   }
 }
