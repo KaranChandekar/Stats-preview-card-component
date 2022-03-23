@@ -92,8 +92,13 @@ p {
 }
 
 @media (min-width: 768px) {
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
   .container .picture {
     background: url(./images/image-header-desktop.jpg) no-repeat center/cover;
-    height: auto;
   }
 }
