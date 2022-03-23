@@ -141,4 +141,12 @@ p {
     justify-content: center;
     min-height: 100vh;
   }
+
+  .container .card:nth-child(2) {
+    padding: 0 30px;
+  }
+
+  .container .card p {
+    margin-bottom: 50px;
+  }
 }
