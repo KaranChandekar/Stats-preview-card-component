@@ -86,6 +86,8 @@ p {
 .attribution {
   font-size: 11px;
   text-align: center;
+  color: var(--white);
+  padding-bottom: 20px;
 }
 
 .attribution a {
