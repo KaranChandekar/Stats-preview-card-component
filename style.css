@@ -112,4 +112,9 @@ p {
     height: 400px;
     border-radius: 0 10px 10px 0;
   }
+
+  .container .card ul {
+    padding-left: 30px;
+    display: flex;
+  }
 }
