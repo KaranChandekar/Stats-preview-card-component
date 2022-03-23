@@ -63,6 +63,13 @@ body {
   text-transform: uppercase;
 }
 
+.container .card ul li span {
+  display: block;
+  text-transform: lowercase;
+  font-weight: 700;
+  font-family: "Lexend Deca", sans-serif;
+}
+
 img {
   max-width: 100%;
 }
