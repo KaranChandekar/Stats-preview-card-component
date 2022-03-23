@@ -58,6 +58,11 @@ body {
   margin-bottom: 300px;
 }
 
+.container .card ul li {
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+
 img {
   max-width: 100%;
 }
